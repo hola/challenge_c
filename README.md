@@ -1,4 +1,4 @@
-# Hola C Challenge (2012-2014)
+# <img src=https://hola.org/img/hola_clean.png> Hola C Challenge (2012-2014)
 
 Thanks to all the participants of the Hola C challenge and congratulations to the winners ([see the winners list](#winners)) - winning a total of 82,000 USD. We are no longer accepting any new C challenge responses, but we may re-open this C challenge again in the future. 
 
